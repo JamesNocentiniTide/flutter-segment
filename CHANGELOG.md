@@ -1,3 +1,6 @@
+## 4.0.3
+- iOS: Use newer `2.7.16` version of `Segment-Firebase`
+
 ## 4.0.2
 - iOS: Downgrade Appsflyer SDK iOS dependency from 6.14.3 to 6.13.0
 - Update to Dart `3.5.0` and Flutter `3.24.0`
